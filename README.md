@@ -9,7 +9,7 @@ Pocket Gopher is a client for this protocol running on Java ME devices. I wrote 
 - Supports directories, text files, searches, images and Web links (via the device Web browser).
 - Session history, basic back function and caching.
 - Paginated display for large directories and text files.
-- Navigate by URL or host/port/type/selector (thanks to Nuno J. Silva <gopher://sdf-eu.org/1/users/njsg>).
+- Navigate by URL or host/port/type/selector (thanks to Nuno J. Silva).
 - Works on any port, not just 70 (surprisingly enough, that's worth mentioning).
 - Forward compatible with Gopher+.
 
