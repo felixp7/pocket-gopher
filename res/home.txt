@@ -1,0 +1,22 @@
+iWelcome to Pocket Gopher, a simple client for the Gopher protocol.	fake	(NULL)	0
+iHere are some good starting points for surfing Gopherspace:	fake	(NULL)	0
+1gopher.quux.org		gopher.quux.org	70
+i(gopher.quux.org is sort of an Internet archival server)	fake	(NULL)	0
+1gopher.floodgap.com		gopher.floodgap.com	70
+i(Gopher software, advocacy, search engine.)	fake	(NULL)	0
+1The Online Book Initiative		gopher.std.com	70
+i(A huge archive of freely redistributable texts.)	fake	(NULL)	0
+1SDF Public Access UNIX System		sdf.org	70
+i(Old UNIX shell account provider)	fake	(NULL)	0
+1SDF Europe		sdf-eu.org	70
+i(European branch of the same)	fake	(NULL)	0
+i--------	fake	(NULL)	0
+iPocket Gopher version 2010-12-09 beta by Felix Plesoianu	fake	(NULL)	0
+hAuthor's website	URL:http://felix.plesoianu.ro/	(NULL)	0
+iThis software is open source under the MIT license.	fake	(NULL)	0
+hLicense text at www.opensource.org	URL:http://opensource.org/licenses/mit-license.php	(NULL)	0
+iCredits	fake	(NULL)	0
+1Some code and ideas by Nuno J. Silva	users/njsg	sdf-eu.org	70
+hChipmunk icon by Nicu Buculei	URL:http://www.openclipart.org/detail/14486	(NULL)	0
+iTrivia	fake	(NULL)	0
+hWikipedia page on pocket gophers	URL:http://en.wikipedia.org/wiki/Pocket_gopher	(NULL)	0
